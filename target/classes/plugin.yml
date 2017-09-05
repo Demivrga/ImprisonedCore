@@ -1,0 +1,32 @@
+name: ImprisonedCore
+main: com.ImprisonedCore.CoreMain
+version: 1.0
+author: Demonly
+depend: [ImprisonedMongo]
+commands:
+  bal:
+    description: com.ImprisonedCore.CoreMain
+  balance:
+    description: com.ImprisonedCore.CoreMain
+  money:
+    description: com.ImprisonedCore.CoreMain
+  cash:
+    description: com.ImprisonedCore.CoreMain
+  dealer:
+    description: com.ImprisonedCore.CoreMain
+  $:
+    description: com.ImprisonedCore.CoreMain
+  rankup:
+    description: com.ImprisonedCore.CoreMain
+  online:
+    description: com.ImprisonedCore.CoreMain
+  who:
+    description: com.ImprisonedCore.CoreMain
+  list:
+    description: com.ImprisonedCore.CoreMain
+  players:
+    description: com.ImprisonedCore.CoreMain
+  glist:
+    description: com.ImprisonedCore.CoreMain
+  whom:
+    description: com.ImprisonedCore.CoreMain
